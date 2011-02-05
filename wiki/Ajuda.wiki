@@ -29,7 +29,7 @@
 
           o Ao clicar em um índice do histórico, com o botão esquerdo do mouse, ele é selecionado, sendo colocado em evidência. Quando é usado o botão direito é aberto um menu com algumas opções de ação.
 
-    **Duplo click em um iten do histórico*     
+    ***Duplo click em um iten do histórico**     
 
           o O duplo click em um item do histórico faz com que, seu conteúdo seja copiado para componente de texto em foco.
 
