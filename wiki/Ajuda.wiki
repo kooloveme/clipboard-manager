@@ -12,7 +12,7 @@
     * *Histórico recente* : É mostrado o item mais recente na área de transferência, ou seja, o último texto copiado.
     * *Botão cortina* : Ao clicar nesse botão a altura da janela diminui, deixando apenas amostra o histórico recente. Clicando novamente a janela volta a altura normal.
     * *Botão alfineta* : Ao clicar nesse botão, a função cortina é desativada;
-    * Histórico da área de transferência : Onde é armazenado tudo que inserido na área de transferência;
+    * *Histórico da área de transferência* : Onde é armazenado tudo que inserido na área de transferência;
 
  
 
@@ -46,7 +46,7 @@
           o *Uso* : Pressionando Ctrl e logo após um Número.
     * *Ctrl + Alt + Backspace* : Apaga todo o histórico.
           o *Uso* : Pressione todas as três teclas juntas.
-    * Delete : Apaga um item do histórico.
+    * *Delete* : Apaga um item do histórico.
           o *Uso* : Selecione um item do histórico e pressione delete.
 
  
