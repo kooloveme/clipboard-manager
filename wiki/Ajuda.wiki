@@ -1,22 +1,9 @@
 =Clipboard Manager=
-Ajuda
 
-    * Tela inicial
-    * Item do histórico
-          o Click em um item do histórico
-          o Duplo click em um iten do histórico
-    * Teclas de Atalho
-    * Configurações
-          o Dimensão
-          o Atalhos
-          o Geral
-    * Menu da barra de tarefas (tray icon)
-    * Menu dos itens do histórico
+==Ajuda==
 
  
-
- 
-Tela inicial
+===Tela inicial===
 
  
 
@@ -30,7 +17,7 @@ Tela inicial
  
 
  
-Item do histórico
+===Item do histórico===
  
     * Conteúdo : O início do texto armazenado da área de transferência.
     * Hora do armazenamento : Hora que foi o conteúdo foi armazenado.
@@ -48,7 +35,7 @@ Item do histórico
 
  
 
-Teclas de Atalho
+===Teclas de Atalho===
 
 
     * Botão Esquerdo do Mouse + Ctrl : Traz a janela do programa para na posição onde o mouse foi clicado.
@@ -65,7 +52,7 @@ Teclas de Atalho
  
 
  
-Configurações
+===Configurações===
 
     *Dimensão    
 
@@ -86,7 +73,7 @@ Configurações
 
  
  
-Menu da barra de tarefas (tray icon)
+===Menu da barra de tarefas (tray icon)===
 
     * Configurações : Abre a janela de configurações.
     * Ajuda : É mostrada a ajudo do software.
@@ -97,7 +84,7 @@ Menu da barra de tarefas (tray icon)
  
 
  
-Menu dos itens do histórico
+===Menu dos itens do histórico===
 
     * Copiar : Copia o conteúdo do item do histórico para área de transferência.
     * Excluir : Remove o item do histórico do histórico.
