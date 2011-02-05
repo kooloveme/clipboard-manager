@@ -57,7 +57,7 @@
     **Dimensão*    
 
           o *Largura da janela* : Valor da nova largura da janela.
-          o Altura da janela : Valor da nova altura da janela.
+          o *Altura da janela* : Valor da nova altura da janela.
 
     **Atalhos*   
 
